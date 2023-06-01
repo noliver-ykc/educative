@@ -16,6 +16,5 @@ function isPalindrome(str){
   
   }
   
-  
   console.log(isPalindrome("bob")) // true;
   console.log(isPalindrome("RACEACAR")) // false;
